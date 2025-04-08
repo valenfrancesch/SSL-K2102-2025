@@ -3,6 +3,8 @@
 ## Nombre y legajo de los integrantes del Grupo
 
 Integrantes:
+- Legajo: **220.879-9**
+- Nombre: **Facundo Sanzo**
 
 - Legajo: **221.283-3** 
-- Nombre: **Trolessi Agustin**
+- Nombre: **Agustin Trolessi**
