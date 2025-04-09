@@ -11,3 +11,6 @@ Integrantes:
 
 - Legajo: **213.375-1** 
 - Nombre: **Matias Bravo Arreyes**
+
+- Legajo: **222.315-6**
+- Nombre: **Valentina Francesch**
