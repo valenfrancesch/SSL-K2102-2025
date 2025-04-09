@@ -14,3 +14,6 @@ Integrantes:
 
 - Legajo: **222.315-6**
 - Nombre: **Valentina Francesch**
+
+- Legajo: **177.095-0**
+- Nombre: **Julian Novoa**
