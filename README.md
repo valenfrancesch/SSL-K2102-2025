@@ -8,3 +8,6 @@ Integrantes:
 
 - Legajo: **221.283-3** 
 - Nombre: **Agustin Trolessi**
+
+- Legajo: **213.375-1** 
+- Nombre: **Matias Bravo Arreyes**
